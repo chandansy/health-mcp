@@ -1,0 +1,23 @@
+Environments
+
+.env
+.venv
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+MCP Data storage
+
+health_history.json
+
+Byte-compiled / optimized / DLL files
+
+pycache/
+*.py[cod]
+*$py.class
+
+IDEs
+
+.vscode/
+.idea/
